@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abolfazl00f
 - 👀 I’m interested in web design .
-- 🌱 I’m currently learning html , css ,js
+- 🌱 I’m currently learning html , css ,js & ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Abolfazl00f/Abolfazl00f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
